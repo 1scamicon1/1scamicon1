@@ -56,6 +56,16 @@
 
 ---
 
+### 📬 Contacts
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@kunstler.ads-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kunstler.ads)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=1scamicon1&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
