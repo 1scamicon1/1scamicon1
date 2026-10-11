@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+1scamicon1+%F0%9F%91%8B;Python+developer+%F0%9F%90%8D;Bots+%26+automation+enthusiast+%F0%9F%A4%96;Welcome+to+my+profile!)](https://github.com/1scamicon1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+kunstler+%F0%9F%91%8B;Python+developer+%F0%9F%90%8D;Bots+%26+automation+enthusiast+%F0%9F%A4%96;Welcome+to+my+profile!)](https://github.com/1scamicon1)
 
 </div>
 
