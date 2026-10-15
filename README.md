@@ -15,10 +15,35 @@
 
 ---
 
+## 🚀 Projects
+
+### [ELT — Dota 2 Telegram Mini App](https://github.com/1scamicon1/elt-dota-miniapp)
+
+A full-stack Telegram game for a Dota 2 community: a 3D tapper with Dota heroes, mini-games, a Captains Mode draft duel with an explainable outcome, guilds with chat, a two-level referral program and a shop with real Steam items.
+
+- **Backend:** FastAPI, SQLAlchemy 2 (async), PostgreSQL, Alembic, aiogram 3. 78 API endpoints, 67 tests
+- **Frontend:** React 19, TypeScript, Three.js (React Three Fiber), zustand, TanStack Query
+- **Engineering:** server-side authority over game state, a transaction ledger for the prize currency, row locks and idempotent payouts, Steam anti-bot verification, rate-limited OpenDota and Steam Market clients
+- **Infrastructure:** multi-stage Docker image, Railway, GitHub Actions CI
+
+<p align="left">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram_Mini_App-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</p>
+
+---
+
 ## 🛠 Tech stack
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
