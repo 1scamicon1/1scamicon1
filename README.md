@@ -22,17 +22,16 @@ Kunden-E-Mails nach Kategorie und Dringlichkeit einordnen, Dringendes nach oben 
 
 `Claude API` `Prompt Caching` `Python` `FastAPI` `E-Mail (.eml)`
 
-### [ELT: Dota 2 Telegram Mini App](https://github.com/kunstler-dev/elt-dota-miniapp)
+### [ELT: Community-App mit Live-Betrieb](https://github.com/kunstler-dev/elt-dota-miniapp)
 
-Ein Spiel in Telegram für eine Dota-2-Community: 3D-Helden, Minispiele, Draft-Duell, Gilden mit Chat, Empfehlungsprogramm und ein Shop mit echten Steam-Items.
+Community-App mit Live-Betrieb (Telegram Mini App, FastAPI, React, Docker, CI) für eine Dota-2-Community: Minispiele, Gilden mit Chat, Empfehlungsprogramm und Belohnungssystem. Umgesetzt mit Claude Code.
 
 **Meine Rolle:**
-- Produktidee, Funktionen und Spielwirtschaft entworfen und durchgerechnet (Belohnungen, Shop-Preise, Kosten pro neuem Nutzer)
+- Produktidee, Funktionen und Belohnungssystem entworfen und durchgerechnet
 - Umsetzung mit einem KI-Coding-Assistenten gesteuert: Aufgaben beschrieben, Ergebnisse geprüft und getestet, Entscheidungen dokumentiert
-- Live-Betrieb: Server und Datenbank auf Railway, Telegram-Bot, Admin-Bereich
-- Community-Kanal und Wettbewerbe für die Spieler
+- Betrieb: Docker-Container auf Railway, PostgreSQL mit Migrationen, Tests per GitHub Actions, Telegram-Bot, Admin-Bereich
 
-**Technik im Projekt:** Python, FastAPI, React, Three.js, PostgreSQL, Docker, Telegram Bot API
+**Technik im Projekt:** Python, FastAPI, React, Three.js, PostgreSQL, Docker, GitHub Actions, Telegram Bot API
 
 ---
 
@@ -64,7 +63,7 @@ Eine Stelle rund um **KI-Einsatz, Digitalisierung oder Prozessautomatisierung**,
 
 I build projects with AI assistants: I come up with the idea, make the product and economy decisions, direct the implementation with AI tools like Claude Code, review the results and run the product live. I'm not a classic programmer; my strength is turning an idea into a working product with AI.
 
-**Main project:** [ELT: Dota 2 Telegram Mini App](https://github.com/kunstler-dev/elt-dota-miniapp), a Telegram game with 3D heroes, mini-games, guilds and a shop with real Steam items.
+**Projects:** [KI-Belegerfassung](https://github.com/kunstler-dev/ki-belegerfassung) (invoice capture with Claude and Excel export), [KI-Kundenanfragen](https://github.com/kunstler-dev/ki-kundenanfragen) (sorting customer emails and drafting replies) and [ELT](https://github.com/kunstler-dev/elt-dota-miniapp), a community app running live (Telegram Mini App, FastAPI, React, Docker, CI).
 
 Looking for roles in AI adoption, digitalization or process automation.
 
