@@ -8,7 +8,19 @@ Ich bin kein klassischer Programmierer. Meine Stärke ist es, mit KI aus einer I
 
 ---
 
-## 🚀 Projekt
+## 🚀 Projekte
+
+### [KI-Belegerfassung](https://github.com/kunstler-dev/ki-belegerfassung)
+
+Eingangsrechnungen als PDF oder Foto mit Claude auslesen, mit festen Rechenregeln prüfen (Netto + MwSt. = Brutto, Steuersatz, Positionen, IBAN) und als Excel oder CSV für die Buchhaltung exportieren. Auffällige Belege werden zum Prüfen markiert.
+
+`Claude API` `Structured Outputs` `Python` `FastAPI` `Excel-Export`
+
+### [KI-Kundenanfragen](https://github.com/kunstler-dev/ki-kundenanfragen)
+
+Kunden-E-Mails nach Kategorie und Dringlichkeit einordnen, Dringendes nach oben holen und Antwortentwürfe schreiben, die sich nur auf das hinterlegte Firmenwissen stützen. Verschickt wird nichts automatisch.
+
+`Claude API` `Prompt Caching` `Python` `FastAPI` `E-Mail (.eml)`
 
 ### [ELT: Dota 2 Telegram Mini App](https://github.com/kunstler-dev/elt-dota-miniapp)
 
