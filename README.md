@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+kunstler+%F0%9F%91%8B;Python+developer+%F0%9F%90%8D;Bots+%26+automation+enthusiast+%F0%9F%A4%96;Welcome+to+my+profile!)](https://github.com/1scamicon1)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I%27m+kunstler+%F0%9F%91%8B;Python+developer+%F0%9F%90%8D;Bots+%26+automation+enthusiast+%F0%9F%A4%96;Welcome+to+my+profile!)](https://github.com/kunstler-dev)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-### [ELT — Dota 2 Telegram Mini App](https://github.com/1scamicon1/elt-dota-miniapp)
+### [ELT — Dota 2 Telegram Mini App](https://github.com/kunstler-dev/elt-dota-miniapp)
 
 A full-stack Telegram game for a Dota 2 community: a 3D tapper with Dota heroes, mini-games, a Captains Mode draft duel with an explainable outcome, guilds with chat, a two-level referral program and a shop with real Steam items.
 
@@ -55,12 +55,12 @@ A full-stack Telegram game for a Dota 2 community: a 3D tapper with Dota heroes,
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=1scamicon1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1scamicon1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kunstler-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunstler-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=1scamicon1&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kunstler-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ A full-stack Telegram game for a Dota 2 community: a 3D tapper with Dota heroes,
 ## 📈 Activity
 
 <p align="center">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=1scamicon1&theme=tokyo-night&hide_border=true&area=true" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kunstler-dev&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ A full-stack Telegram game for a Dota 2 community: a 3D tapper with Dota heroes,
 [![Telegram](https://img.shields.io/badge/Telegram-@kunstler__ads-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kunstler_ads)
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=1scamicon1&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=kunstler-dev&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
