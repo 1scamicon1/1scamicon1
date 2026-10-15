@@ -74,4 +74,5 @@ Looking for roles in AI adoption, digitalization or process automation.
 
 ## 📬 Kontakt
 
+[![E-Mail](https://img.shields.io/badge/E--Mail-anton132332%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anton132332@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@kunstler__ads-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kunstler_ads)
